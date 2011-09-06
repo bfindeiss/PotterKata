@@ -27,7 +27,7 @@ class PotterKata
       end
     end
     
-
+    # test
     #    cost= 8*books.length
     #    list = BookList.new
     #    books.each do
